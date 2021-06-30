@@ -9,8 +9,10 @@ In the above example of class Car, the data member will be speed limit, mileage 
 ## An Object is an instance of a Class. When a class is defined, no memory is allocated but when it is instantiated (i.e. an object is created) memory is allocated.
 # Defining Class and Declaring Objects
 
-A class is defined in C++ using keyword class followed by the name of class. The body of class is defined inside the curly brackets and terminated by a semicolon at the end.classes-and-objects-in-c
+A class is defined in C++ using keyword class followed by the name of class. The body of class is defined inside the curly brackets and terminated by a semicolon at the end.classes-and-objects-in-c.
+
 ![Test Image 1](a.png)
+
 *Declaring Objects:
  When a class is defined, only the specification for the object is defined; no memory or storage is allocated. To use the data and access functions defined in the class, you need to create objects.
 
