@@ -15,9 +15,9 @@ using namespace std;
 
          //[pointer to pointer]
         int** c = &b;
-       cout<<"The address of b is"<<&b<<endl;
+        cout<<"The address of b is"<<&b<<endl;
        cout<<"The address of b is"<<c<<endl;
        cout<<"The value of address c is"<<*c<<endl;
-        cout<<"the value at address value_at(value-at(c))is"<<**c<<endl;   
+        cout<<"the value at address value_at(value-at(c))is"<<**c<<endl; 
        return 0; 
         }
